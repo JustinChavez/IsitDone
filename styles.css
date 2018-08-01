@@ -1,0 +1,17 @@
+#progress {
+ width: auto;
+ border: 3px solid black;
+ margin: auto;
+ padding: 3px;
+}
+
+#percent {
+ position: absolute;
+ left: 50%;
+}
+
+#bar {
+ height: 20px;
+ background-color: Chartreuse;
+ width: 80%;
+}
